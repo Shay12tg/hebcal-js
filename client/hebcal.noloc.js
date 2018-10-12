@@ -1555,6 +1555,7 @@ suncalc.addTime(-16.1, 'alot_hashachar', 0);
 suncalc.addTime(-11.5, 'misheyakir', 0);
 suncalc.addTime(-10.2, 'misheyakir_machmir', 0);
 suncalc.addTime(-8.5, 0, 'tzeit');
+suncalc.addTime(-5.879999999999995, 0, 'tzeitstars');
 
 // for minifying optimizations
 var getFullYear = 'getFullYear',
