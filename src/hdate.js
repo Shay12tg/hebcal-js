@@ -404,6 +404,9 @@ var zemanim = {
 	tzeit: function(hdate) {
 		return suntime(hdate).tzeit;
 	},
+	tzeitstars: function(hdate) {
+		return suntime(hdate).tzeitstars;
+	},
 	neitz_hachama: function(hdate) {
 		return hdate.sunrise();
 	},
